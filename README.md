@@ -1,5 +1,11 @@
 # Islamabad House Rent Price Prediction
 
+[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
+[![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Open Issues](https://img.shields.io/github/issues/Maaz-Saeed/islamabad-house-rent-price-prediction)](https://github.com/Maaz-Saeed/islamabad-house-rent-price-prediction/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Maaz-Saeed/islamabad-house-rent-price-prediction)](https://github.com/Maaz-Saeed/islamabad-house-rent-price-prediction/commits/main)
+
 A data science project analyzing and predicting residential rent prices in Islamabad, Pakistan.
 
 ## What's inside
