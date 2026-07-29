@@ -16,10 +16,14 @@ A data science project analyzing and predicting residential rent prices in Islam
 pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
 ```
 
+## Data
+
+`cleaned_house_data.csv` — the cleaned dataset produced by the notebook's data-cleaning steps (missing values imputed, rare locations removed). Later cells in the notebook (EDA, modeling) load from this file.
+
+The notebook's earlier cells reference a raw `House_for_rent_islamabad_pk.csv`, which is not included here; those cells can be skipped by starting from the cleaned data.
+
 ## Usage
 
 ```bash
 jupyter notebook data_science_project.ipynb
 ```
-
-The notebook expects a `House_for_rent_islamabad_pk.csv` dataset in the same directory as input.
